@@ -1,0 +1,10 @@
+name: crimeexplore
+title:
+username: jsudeep
+account: jsudeep
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15082529
+bundleId: 10624152
+url: https://jsudeep.shinyapps.io/crimeexplore/
+version: 1
